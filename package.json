@@ -7,7 +7,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "cypress open"
   },
   "private": true,
   "dependencies": {
@@ -29,6 +29,7 @@
     "@angular/compiler-cli": "~8.2.4",
     "@angular/language-service": "~8.2.4",
     "@types/node": "~8.9.4",
+    "chance": "^1.1.0",
     "cypress": "^3.4.1",
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
