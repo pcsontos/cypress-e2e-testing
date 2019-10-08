@@ -12,7 +12,7 @@ Learn how to perform amazing end-to-end testing for Angular Firebase apps using 
 
 ## Content
 
-1. [Testing Services with Http in Angular](./doc/testing-services-with-http-in-angular)
+1. [Testing Services with Http in Angular](./doc/testing-services-with-http-in-angular.md)
 
 ### Development server
 
